@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Memo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Memo/app/src/main/res/drawable/button_red.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Memo/app/src/main/res/drawable/ic_check.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Memo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Memo/app/src/main/res/layout/activity_main.xml" value="0.25263157894736843" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Memo/app/src/main/res/layout/item_memo.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="androidx.room.Entity" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
